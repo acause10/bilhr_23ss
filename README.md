@@ -1,12 +1,10 @@
-# BILHR23SS
+# Biologically Inspired Learning for Humanoid Robots
 
-## Sync & Update
-In order to update your code from your own laptop, clone this repository at first and edit in it. When doing group work, it will be better to pull it first and keep up other's work, then start your own work.
+## Description:
+This project was developed as part of the course "Biologically Inspired Learning for Humanoid Robots" @TUM. Submissions folder contains files which were submitted for each of the mandatory homeworks. workspace folder contains source code.
+**NOTE**: this repo has not been maintained. Hence, it is used to showcase possible solutions of the homeworks.
 
-## Create new tutorial
-When creating a new tutorial project, please put it under "/workspace/src", just like what we did in tutorial 2.
-```
-cd src
-catkin_create_pkg tutorial_0 std_msgs rospy roscpp
-```
+## Credits:
+Nicholas Menzel, Ernesto Pocasangre, Dajana Gacic, Yi Zhang, NAO (our robot) 
+
 
